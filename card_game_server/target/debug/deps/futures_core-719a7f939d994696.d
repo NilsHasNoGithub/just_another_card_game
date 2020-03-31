@@ -1,0 +1,11 @@
+/home/nils/git/just_another_card_game/card_game_server/target/debug/deps/futures_core-719a7f939d994696.rmeta: /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/lib.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/future.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/stream.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/mod.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/poll.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/mod.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/atomic_waker.rs
+
+/home/nils/git/just_another_card_game/card_game_server/target/debug/deps/futures_core-719a7f939d994696.d: /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/lib.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/future.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/stream.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/mod.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/poll.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/mod.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/atomic_waker.rs
+
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/lib.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/future.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/stream.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/mod.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/poll.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/mod.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/atomic_waker.rs:
