@@ -1,0 +1,13 @@
+/home/nils/git/just_another_card_game/target/debug/deps/quote-139b5b49b534b9c6.rmeta: /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/home/nils/git/just_another_card_game/target/debug/deps/libquote-139b5b49b534b9c6.rlib: /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/home/nils/git/just_another_card_game/target/debug/deps/quote-139b5b49b534b9c6.d: /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs:
+/home/nils/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs:

@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "card_game_app",
+    "card_game_client",
+    "card_game_server",
+    "shared_lib"
+]

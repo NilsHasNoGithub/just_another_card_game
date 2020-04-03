@@ -64,9 +64,9 @@ fn main_loop(matches: ArgMatches) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn server_loop(port: &str, mut clients: Arc<Mutex<Vec<Client>>>) -> Result<(), Box<dyn Error>> {
+fn server_loop(port: &str, clients: Arc<Mutex<Vec<Client>>>) -> Result<(), Box<dyn Error>> {
     let listener = TcpListener::bind(&format!("127.0.0.1:{}", port))?;
-    let mut executor = think_thank_rust::tasking::TaskPoolExecutor::new(16);
+    let executor = think_thank_rust::tasking::TaskPoolExecutor::new(16);
 
     for stream in listener.incoming() {
         let mut stream = stream?;
@@ -85,7 +85,7 @@ fn server_loop(port: &str, mut clients: Arc<Mutex<Vec<Client>>>) -> Result<(), B
 
         executor.submit(move || 'a: loop {
             let mut br = false;
-            let mut msg = read_message(&mut stream).unwrap_or_else(|e| {
+            let mut msg = read_message(&mut stream).unwrap_or_else(|_| {
                 println!("{} has disconnected", id);
                 br = true;
                 "".into()
